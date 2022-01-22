@@ -9,8 +9,6 @@
 <body>
     <?php
         echo "Olá, mundo!";
-        echo "Eu estou bem.";
-        echo "Você está bem?";
     ?>
 </body>
 </html>
